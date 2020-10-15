@@ -1,0 +1,4 @@
+jax 
+jaxlib 
+jax-fixedpoint 
+git+http://github.com/scikit-hep/pyhf.git@diffable_json
